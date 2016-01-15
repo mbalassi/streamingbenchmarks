@@ -8,7 +8,7 @@ cookbooks:
     github: "hopshadoop/apache-hadoop-chef"
     branch: "master"
   flink: 
-    github: "hopshadoop/flink-chef"
+    github: "mbalassi/flink-chef"
     branch: "master"
   spark: 
     github: "hopshadoop/spark-chef"
@@ -20,8 +20,8 @@ cookbooks:
     github: "hopshadoop/kkafka"
     branch: "master"
   streamingbenchmarks:
-    github: "jimdowling/streamingbenchmarks"
-    branch: "master"
+    github: "mbalassi/streamingbenchmarks"
+    branch: "temporary-fix"
   java: 
     github: "jimdowling/java"
     branch: "master"
